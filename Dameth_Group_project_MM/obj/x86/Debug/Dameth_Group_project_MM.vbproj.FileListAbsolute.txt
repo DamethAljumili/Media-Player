@@ -1,0 +1,15 @@
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\bin\Debug\Dameth_Group_project_MM.exe
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\bin\Debug\Dameth_Group_project_MM.pdb
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\bin\Debug\Dameth_Group_project_MM.xml
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\bin\Debug\Interop.WMPLib.dll
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.vbproj.ResolveComReference.cache
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.Form1.resources
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.Resources.resources
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.vbproj.GenerateResource.Cache
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.exe
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.xml
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.pdb
+C:\Users\linux\Documents\Visual Studio 2010\Projects\fourth_multimedia\Dameth_Group_project_MM\Dameth_Group_project_MM\obj\x86\Debug\Dameth_Group_project_MM.AboutBox1.resources
